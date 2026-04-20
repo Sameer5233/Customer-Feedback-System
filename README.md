@@ -50,28 +50,6 @@ src/
 └── index.css                   # Global styles
 ```
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── WelcomeScreen.tsx
-│   ├── QuestionRenderer.tsx
-│   ├── RatingComponent.tsx
-│   ├── TextInputComponent.tsx
-│   ├── NavigationButtons.tsx
-│   ├── ProgressIndicator.tsx
-│   ├── ThankYouScreen.tsx
-│   └── ConfirmationDialog.tsx
-├── data/
-│   └── questions.ts
-├── utils/
-│   └── localStorage.ts
-├── App.tsx
-├── App.css
-├── main.tsx
-└── index.css
-```
 
 ## How It Works
 
